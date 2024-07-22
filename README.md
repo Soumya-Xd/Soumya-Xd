@@ -1,6 +1,6 @@
-<img src="https://gist.github.com/user-attachments/assets/91bfec13-70d6-4176-aa92-a0f24edd1d2e" alt="Header Logo" width="200"/>
+<img src="https://github.com/Soumya-Xd/Soumya-Xd/blob/main/developer-dribbble.gif" alt="Header Logo" width="300"/>
 
-<h1 align="center"><span style="color:#ff9933;">👋 Hello, I'm </span><span style="color:#138808;">Soumya</span>!</h1>
+<h1><span style="color:#ff9933;">👋 Hello, I'm </span><span style="color:#138808;">Soumya</span>!</h1>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ---
 
-<img src="https://gist.github.com/user-attachments/assets/c7b29643-1bcc-4b0d-a4dd-fa788281fc11" alt="Footer Logo" width="200"/>
+<img src="https://github.com/Soumya-Xd/Soumya-Xd/blob/main/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="Footer Logo" width="300"/>
