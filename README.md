@@ -16,12 +16,17 @@
 
 ---
 
+## 🌟🚀🌟 Trending Projects
+
+### 1. **🌦️Weather Classifier Web App🌦️** 
+       Check it Out:[View Project](https://github.com/Soumya-Xd/Weather_Classifier)
+
 ## 🔥 Projects
 
-- **Weather Classifier**: This is a Weather Classifier web application that classifies images of various weather conditions. [View Project](https://github.com/Soumya-Xd/Weather_Classifier)
-- **Pneumonia Classifier**: An image classifier to detect pneumonia from chest X-ray images. [View Project](https://github.com/Soumya-Xd/Pneumonia_Classifier)
-- **Tic Tac Toe**: A classic Tic Tac Toe game built using JavaScript. [View Project](https://github.com/Soumya-Xd/tic-tac-toe)
-- **PDF Reader**: A PDF reader application developed using Python. [View Project](https://github.com/Soumya-Xd/BEST-PDF-READER)
+- 🌦️**Weather Classifier**: This is a Weather Classifier web application that classifies images of various weather conditions. [View Project](https://github.com/Soumya-Xd/Weather_Classifier)
+- 🩺**Pneumonia Classifier**: An image classifier to detect pneumonia from chest X-ray images. [View Project](https://github.com/Soumya-Xd/Pneumonia_Classifier)
+- 🕹️**Tic Tac Toe**: A classic Tic Tac Toe game built using JavaScript. [View Project](https://github.com/Soumya-Xd/tic-tac-toe)
+- 📄**PDF Reader**: A PDF reader application developed using Python. [View Project](https://github.com/Soumya-Xd/BEST-PDF-READER)
 
 ---
 
