@@ -18,7 +18,7 @@
 
 ## 🌟🚀🌟 Trending Projects
 
-### 1. **🌦️Weather Classifier Web App🌦️**:[Check it Out](https://github.com/Soumya-Xd/Weather_Classifier) 
+### 1. **🌦️Weather Classifier Web App🌦️**:[Check it Out](https://weatherclassifierusingimageclassifier.streamlit.app/) 
 
 ---     
 
