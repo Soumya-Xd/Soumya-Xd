@@ -18,8 +18,8 @@
 
 ## 🌟🚀🌟 Trending Projects
 
-### 1. **🌦️Weather Classifier Web App🌦️**:[Check it Out](https://weatherclassifierusingimageclassifier.streamlit.app/) 
-
+### 1. **💊💉DR+Medicine Information founder Web App💊💉**:[Check it Out](https://testapp-8v3q3eukn3sxpse8tbqob3.streamlit.app/) 
+### 2. **🌦️Weather Classifier Web App🌦️**:[Check it Out](https://weatherclassifierusingimageclassifier.streamlit.app/) 
 ---     
 
 ## 🔥 Projects
