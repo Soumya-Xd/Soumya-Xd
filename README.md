@@ -45,9 +45,7 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Soumya-Xd/Soumya-Xd/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
